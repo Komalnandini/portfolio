@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6c8fcd;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #0f012e5e;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+}
+
+.project {
+    margin: 20px;
+    display: inline-block;
+}
+project img{
+    max-width: 100%;
+    height: auto;
+}
+
+/* Add more CSS styles to customize your website */
+
